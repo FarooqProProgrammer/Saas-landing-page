@@ -4,6 +4,7 @@ import Header from './component/Header'
 import Hero from './component/Hero'
 import FeatureBox from './component/FeatureBox'
 import Guidenece from './component/Guidenece'
+import Work from './component/Work'
 
 const App = () => {
   return (
@@ -12,6 +13,7 @@ const App = () => {
       <Hero />
       <FeatureBox />
       <Guidenece />
+      <Work />
     </BrowserRouter>
   )
 }

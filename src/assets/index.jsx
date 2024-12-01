@@ -6,15 +6,26 @@ import TIcon from "./images/T-icon.svg"
 import PenIcon from "./images/pen-icon.svg"
 import MoniterIcon from "./images/moniter-icon.svg"
 import GuideIcon from "./images/guide-icon.jpg"
-
+import SmileIcon from "./images/Smile-icon.svg"
+import UrbanIcon from "./images/urban-icon.svg"
+import NaturalIcon from "./images/natural-icon.svg"
+import WaveIcon from "./images/wave-icon.svg"
+import HappIcon from "./images/Happy-icon.svg"
+import AlisaIcon from "./images/Alisa-icon.svg"
 
 export {
     WebsiteLogo,
+    HappIcon,
+    AlisaIcon,
     CustomizeableIcon,
     CustomizableSecond,
     ChatIcon,
     TIcon,
     PenIcon,
     MoniterIcon,
-    GuideIcon
+    GuideIcon,
+    SmileIcon,
+    UrbanIcon,
+    NaturalIcon,
+    WaveIcon
 }
