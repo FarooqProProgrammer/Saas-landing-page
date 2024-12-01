@@ -25,6 +25,21 @@ body {
   }
 }
 
+.button-2 {
+  border-radius: 5px;
+  padding: 12px 20px;
+  background: #000;
+  color: white;
+}
+
+
+@media (max-width:768px) {
+  .button-2 { 
+    padding: 12px 8px;
+    font-size: 12px;
+  }
+}
+
 .icon-hover:hover {
   background: linear-gradient(175deg, #ff9898 0%, #8054ff 100%);
 }

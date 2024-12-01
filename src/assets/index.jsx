@@ -12,6 +12,7 @@ import NaturalIcon from "./images/natural-icon.svg"
 import WaveIcon from "./images/wave-icon.svg"
 import HappIcon from "./images/Happy-icon.svg"
 import AlisaIcon from "./images/Alisa-icon.svg"
+import MapIcon from "./images/Mapicon.png"
 
 export {
     WebsiteLogo,
@@ -27,5 +28,6 @@ export {
     SmileIcon,
     UrbanIcon,
     NaturalIcon,
-    WaveIcon
+    WaveIcon,
+    MapIcon
 }

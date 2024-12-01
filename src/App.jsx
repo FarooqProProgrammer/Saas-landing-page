@@ -5,6 +5,7 @@ import Hero from './component/Hero'
 import FeatureBox from './component/FeatureBox'
 import Guidenece from './component/Guidenece'
 import Work from './component/Work'
+import FreeTrial from './component/FreeTrial'
 
 const App = () => {
   return (
@@ -14,6 +15,7 @@ const App = () => {
       <FeatureBox />
       <Guidenece />
       <Work />
+      <FreeTrial />
     </BrowserRouter>
   )
 }
