@@ -1,0 +1,30 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+  background-color: black;
+  font-family: "Poppins", sans-serif;
+}
+
+.button-1 {
+  border-radius: 5px;
+  padding: 12px 20px;
+  background: linear-gradient(132deg, #ff9898 0%, #8054ff 100%);
+  color: white;
+}
+
+
+@media (max-width:768px) {
+  .button-1 { 
+    padding: 12px 8px;
+    font-size: 12px;
+  }
+}
+
+.icon-hover:hover {
+  background: linear-gradient(175deg, #ff9898 0%, #8054ff 100%);
+}
