@@ -6,6 +6,8 @@ import FeatureBox from './component/FeatureBox'
 import Guidenece from './component/Guidenece'
 import Work from './component/Work'
 import FreeTrial from './component/FreeTrial'
+import GetinTouch from './component/GetinTouch'
+import Footer from './component/Footer'
 
 const App = () => {
   return (
@@ -16,6 +18,8 @@ const App = () => {
       <Guidenece />
       <Work />
       <FreeTrial />
+      <GetinTouch />
+      <Footer />
     </BrowserRouter>
   )
 }

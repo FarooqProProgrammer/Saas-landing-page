@@ -4,7 +4,7 @@ import { MapIcon } from '../../assets'
 
 const FreeTrial = () => {
     return (
-        <div className="container mx-auto py-24">
+        <div className="container mx-auto py-24 px-10 sm:px-0">
             <div className='freeTrial p-5 grid lg:grid-cols-2 md:grid-cols-2 sm:grid-cols-1  rounded-2xl'>
                 <div className='flex flex-col justify-center items-start gap-5'>
                     <h5 className='text-white text-[20px] font-[600]'>Love our Our Tool?</h5>

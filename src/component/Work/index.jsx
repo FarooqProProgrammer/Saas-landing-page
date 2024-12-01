@@ -6,7 +6,7 @@ export default function Work() {
             <div className="flex flex-col justify-center items-center">
                 <h3 className="text-white text-[20px] font-[600] sm:max-w-lg text-center sm:text-[40px]">Companies we Worked With in SInce 2015</h3>
                 <div className="container mx-auto w-full">
-                    <div className="grid  mt-10 lg:grid-cols-6 md:grid-cols-6 sm:grid-cols-2 gap-10 ">
+                    <div className="grid px-10 sm:px-0  mt-10 lg:grid-cols-6 md:grid-cols-6 sm:grid-cols-2 gap-10 ">
                         <div className="h-[100px] rounded-xl bg-black flex justify-center items-center"> 
                             <img  src={SmileIcon} alt=""  />
                         </div>

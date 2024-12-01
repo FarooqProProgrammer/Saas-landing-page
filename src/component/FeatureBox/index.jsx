@@ -6,7 +6,7 @@ const FeatureBox = () => {
     return (
         <div className='container mx-auto py-24 px-4 sm:px-0'>
             <div className='space-y-2'>
-                <h2 className='text-white sm:text-[48px] text-2xl font-[600]'>Feature Boxes</h2>
+                <h2 className='text-white sm:text-[48px] text-2xl font-[600] '>Feature Boxes</h2>
                 <p className='text-[#9e9e9e] sm:max-w-lg'>A good design is not only aesthetically pleasing, but also functional. It should be able to solve the problem </p>
             </div>
             <div className='grid mt-10 lg:grid-cols-3 md:grid-cols-3 sm:grid-cols-1 gap-10'>
